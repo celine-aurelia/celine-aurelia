@@ -29,9 +29,11 @@
 
   <l7>-dance🩰</l7>
 
-  <img scr:"![WhatsApp Image Oct 27 2025](https://github.com/user-attachments/assets/f9cd00f0-cf89-460e-b8fe-ff0b98893415)">
-
  <h2>▸ 𐙚 ♡ı||ııı||⊹</h2>
  🎧ྀི I often listens to Kpop Songs such as TXT, Enhypen, TWS and Cortis songs 
  
  𝄞⨾ᯓᡣ𐭩 I sometimes also listen to other artist songs (except kpop) 
+
+<h5>Thank you for spending a bit of your time here today — I truly appreciate you stopping by, and I hope something you found here made your day a little warmer 🧸✧𓂂🥐🍪</h5>
+
+<h6>ﾒ૦ﾒ૦💋</h6>
