@@ -16,10 +16,10 @@
   <li>-scrolling tiktok ˗ˏˋ☏ˎˊ˗</li>
   <li>-slepping ☽ 💤</li> 
   <li>-eating 𓌉◯𓇋 🍙</li>
-  <li>-playing harp‧₊˚♪𝄞₊˚⊹🪽</li>
-  <li>-play the piano🎹</li>
-  <li>-play violin🎻🪞</li>
-  <li>-dance🩰⋆˚𝜗𝜚˚⋆</li>
+    <li>-dance🩰⋆˚𝜗𝜚˚⋆</li>
+  <li>-play the piano🎹 <a href="https://en.wikipedia.org/wiki/Piano"> piano</a></li>
+  <li>-play violin🎻🪞<a href="https://en.wikipedia.org/wiki/Violin"> violin</a></li>
+    <li> playing harp‧₊˚♪𝄞₊˚⊹🪽 <a href="https://en.wikipedia.org/wiki/Harp"> harp</a></li>
 </ul>
 
 <h2> Fun Facts About Me ૮꒰ ˶• ༝ •˶꒱ა⛄︎☺︎</h2>
