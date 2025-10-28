@@ -9,9 +9,10 @@
      <li>🎬🍿 My favorite movie right now is probably ⋆౨ My Demon ৎ˚⟡˖࣪ even though I haven't finish it, it's still good guys</li>
 </ul>
 <image>
- <img scr="https://www.google.com/imgres?q=my+demon+&imgurl=https://media.suara.com/pictures/653x366/2023/12/20/86962-drama-korea-my-demon.jpg&imgrefurl=https://yoursay.suara.com/entertainment/2023/12/20/151755/ditonton-42-juta-orang-drama-my-demon-jadi-sensasi-global-baru-di-netflix&docid=yXwEMWMQm0A0HM&tbnid=Br4Fo7ODPMuNVM&vet=12ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA..i&w=653&h=366&hcb=2&ved=2ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA&sfr=vfe&source=sh/x/im/can/1">
+ <img scr="[https://www.google.com/imgres?q=my+demon+&imgurl=https://media.suara.com/pictures/653x366/2023/12/20/86962-drama-korea-my-demon.jpg&imgrefurl=https://yoursay.suara.com/entertainment/2023/12/20/151755/ditonton-42-juta-orang-drama-my-demon-jadi-sensasi-global-baru-di-netflix&docid=yXwEMWMQm0A0HM&tbnid=Br4Fo7ODPMuNVM&vet=12ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA..i&w=653&h=366&hcb=2&ved=2ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA&sfr=vfe&source=sh/x/im/can/1](https://github.com/celine-aurelia/celine-aurelia/blob/490c17f369f78d3202edb3c20c09e7c9fbd0e548/My%20Demon%20K-drama%20Official%20Poster.jpeg)">
+     <img scr="[https://www.google.com/imgres?q=my+demon+&imgurl=https://media.suara.com/pictures/653x366/2023/12/20/86962-drama-korea-my-demon.jpg&imgrefurl=https://yoursay.suara.com/entertainment/2023/12/20/151755/ditonton-42-juta-orang-drama-my-demon-jadi-sensasi-global-baru-di-netflix&docid=yXwEMWMQm0A0HM&tbnid=Br4Fo7ODPMuNVM&vet=12ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA..i&w=653&h=366&hcb=2&ved=2ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA&sfr=vfe&source=sh/x/im/can/1](https://github.com/celine-aurelia/celine-aurelia/blob/490c17f369f78d3202edb3c20c09e7c9fbd0e548/My%20Demon%20K-drama%20Official%20Poster.jpeg)" alt="my demon">
 </image>
-    
+   
 
 <h2>Things I Like To Do🤎ྀིྀི</h2>
 <ul>
