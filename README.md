@@ -1,34 +1,28 @@
 <h1>🍂🕰️ WELCOME TO CELINE'S PAGE ✧🐿️ </h1>
 <h2>⋆About Me 🧸ིྀ</h2>
-
-<l1>🐾  Hii I'm Celine </l1>
-
-<l2>📆  Born on 7 December 2012 </l2>
-
-<l3>🏫  I'm currently in Grade 8, studying in Elyon Christian Secondary School</l3>
-
-<l4> 🦌 My MBTI is ENFJ-T ~ Warm, Socialable and Caring✨</l4>
-
-<l5>🎬🍿 My favorite movie right now is probably ⋆౨ My Demon ৎ˚⟡˖࣪ even though I haven't finish it, it's still good guys
-
-<img scr="My Demon K-drama Official Poster.jpeg
-  ">
+     <!-- list -->
+<ul> 
+    <li>🐾  Hii I'm Celine </li>
+     <li>📆  Born on 7 December 2012 </li>
+     <li>🏫  I'm currently in Grade 8, studying in Elyon Christian Secondary School</li>
+     <li> 🦌 My MBTI is ENFJ-T ~ Warm, Socialable and Caring✨</li>
+     <li>🎬🍿 My favorite movie right now is probably ⋆౨ My Demon ৎ˚⟡˖࣪ even though I haven't finish it, it's still good guys</li>
+</ul>
+<image>
+ <img scr="https://www.google.com/imgres?q=my+demon+&imgurl=https://media.suara.com/pictures/653x366/2023/12/20/86962-drama-korea-my-demon.jpg&imgrefurl=https://yoursay.suara.com/entertainment/2023/12/20/151755/ditonton-42-juta-orang-drama-my-demon-jadi-sensasi-global-baru-di-netflix&docid=yXwEMWMQm0A0HM&tbnid=Br4Fo7ODPMuNVM&vet=12ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA..i&w=653&h=366&hcb=2&ved=2ahUKEwiBzrbJ_caQAxUTTWwGHb_vLzYQM3oECDkQAA&sfr=vfe&source=sh/x/im/can/1">
+</image>
+    
 
 <h2>Things I Like To Do🤎ྀིྀི</h2>
-
-  <l1>-scrolling tiktok📱</l1>
-  
-  <l2>-slepping💤</l2> 
-
-<l3>-eating🌯</l3>
-  
-<l4>-playing harp‧₊˚♪𝄞₊˚⊹</l4>
- 
-  <l5>-play the piano🎹</l5>
- 
-  <l6>-play violin🎻</l6>
-
-  <l7>-dance🩰</l7>
+<ul>
+  <li>-scrolling tiktok📱</li>
+  <li>-slepping💤</li> 
+  <li>-eating🌯</li>
+  <li>-playing harp‧₊˚♪𝄞₊˚⊹</li>
+  <li>-play the piano🎹</li>
+  <li>-play violin🎻</li>
+  <li>-dance🩰⋆˚𝜗𝜚˚⋆</li>
+</ul>
 
  <h2>▸ 𐙚 ♡ı||ııı||⊹</h2>
  🎧ྀི I often listens to Kpop Songs such as TXT, Enhypen, TWS and Cortis songs 
