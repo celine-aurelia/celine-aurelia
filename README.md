@@ -9,6 +9,8 @@
      <li>🎬🍿 My favorite movie right now is probably ⋆౨ My Demon ৎ˚⟡˖࣪ even though I haven't finish it, it's still good guys</li>
 </ul>
 
+<img src="https://github.com/celine-aurelia/celine-aurelia/blob/ca9bb1036fa6da5195539016835be853345c6265/My%20Demon%20K-drama%20Official%20Poster.jpeg">
+
 <h2>Things I Like To Do🤎ྀིྀི</h2>
 <ul>
   <li>-scrolling tiktok📱</li>
